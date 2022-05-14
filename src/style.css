@@ -1,0 +1,51 @@
+.navbar .navbar-brand {
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.jumbotron{
+  padding-top: 6rem;
+  color: #fafafa;
+  background-color: #29272a;
+}
+
+
+#about {
+  margin-top: -130px;
+  background-color: #774069;
+}
+
+#article {
+  margin-top: -70px;
+  background-color: #4c3a69;
+  color: #f6f7f7;
+}
+
+#article .container .row {
+  text-align: justify;
+
+}
+
+#article .container .row table{
+  color: #f6f7f7;
+  width: 650px;
+  height: 650px;
+  margin-left: 70px;
+}
+
+#contact {
+  margin-top: -100px;
+  color: #4c3a69;
+  background-color: #f8f8f8;
+}
+
+#contact .btn {
+  align-content: center;
+}
+
+.foo {
+  background-color: rgb(62, 60, 77);
+}
+
+section {
+  padding-top: 5rem;
+}
